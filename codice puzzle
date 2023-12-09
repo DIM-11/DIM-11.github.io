@@ -13,10 +13,10 @@
 
     <a-scene vr-mode-ui="enabled: false" embedded arjs>
 
-        <a-marker type="pattern" url="patterns/pattern-marker.patt">
+        <a-marker type="pattern" url="tag/pattern-reale logo bianco nero.patt">
             <a-entity
             position="0 0 0"
-            scale="0.000001 0.000001 0.000001"
+            scale="0.00000 0.00000 0.00000"
             obj-model="obj: url(/media/Multi_Moka_Express_Bialetti_ILLY_COFFEE.obj);mtl: url(/media/Multi_Moka_Express_Bialetti_ILLY_COFFEE.mtl);"
             > </a-entity>
         </a-marker>
